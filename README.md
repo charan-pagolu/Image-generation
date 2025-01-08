@@ -4,10 +4,10 @@ This project explores the use of Stable Diffusion, a state-of-the-art text-to-im
 ________________________________________
 2. Project Description
 The goal of the project is to generate realistic images by combining features from different groups (e.g., Orientals, Indians, Europeans). The project involves:
-1.	Preprocessing: Resizing images and splitting the dataset.
-2.	Training a Model: Training a CNN model for diffusion purposes (denoising).
-3.	Image Generation: Using a pretrained Stable Diffusion model (dreamlike-art/dreamlike-photoreal-2.0) to generate mixed images.
-4.	Visualization: Plotting accuracy and generated images.
+  1.	Preprocessing: Resizing images and splitting the dataset.
+  2.	Training a Model: Training a CNN model for diffusion purposes (denoising).
+  3.	Image Generation: Using a pretrained Stable Diffusion model (dreamlike-art/dreamlike-photoreal-2.0) to generate mixed images.
+  4.	Visualization: Plotting accuracy and generated images.
 ________________________________________
 3. Summary of Tasks
 The following tasks were undertaken:
